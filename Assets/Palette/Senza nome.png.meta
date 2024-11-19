@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: 5a3410b68fb10d84e995b497f60677ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8371142414001158123
+    second: Senza nome_0
+  - first:
+      213: 8224426965885958586
+    second: Senza nome_1
+  - first:
+      213: 87138666668486595
+    second: Senza nome_2
+  - first:
+      213: -1111792146294532335
+    second: Senza nome_3
+  - first:
+      213: -59884822977833698
+    second: Senza nome_4
+  - first:
+      213: -4545698277405077948
+    second: Senza nome_5
+  - first:
+      213: -5655495369702271036
+    second: Senza nome_6
+  - first:
+      213: 3618534761705173171
+    second: Senza nome_7
+  - first:
+      213: -8363298642466024973
+    second: Senza nome_8
+  - first:
+      213: -1365380512011445473
+    second: Senza nome_9
+  - first:
+      213: 8840479741990075467
+    second: Senza nome_10
+  - first:
+      213: -4099589759715177158
+    second: Senza nome_11
+  - first:
+      213: -2858277753882430868
+    second: Senza nome_12
+  - first:
+      213: 6259705520730849231
+    second: Senza nome_13
+  - first:
+      213: 4796200905526225219
+    second: Senza nome_14
+  - first:
+      213: -7655013976829126488
+    second: Senza nome_15
+  - first:
+      213: -5925289849384875501
+    second: Senza nome_16
+  - first:
+      213: 5849707179693582979
+    second: Senza nome_17
+  - first:
+      213: 6290428951559686580
+    second: Senza nome_18
+  - first:
+      213: 5950757289301777967
+    second: Senza nome_19
+  - first:
+      213: -5366957854662075348
+    second: Senza nome_20
+  - first:
+      213: -2204647283761014108
+    second: Senza nome_21
+  - first:
+      213: 6713955354483029299
+    second: Senza nome_22
+  - first:
+      213: 2661890080843006303
+    second: Senza nome_23
+  - first:
+      213: 8244629700715900975
+    second: Senza nome_24
+  - first:
+      213: 737373949694674865
+    second: Senza nome_25
+  - first:
+      213: 1205082909757154860
+    second: Senza nome_26
+  - first:
+      213: 8860257376672908344
+    second: Senza nome_27
+  - first:
+      213: 6107656926238896366
+    second: Senza nome_28
+  - first:
+      213: -4512806742967755170
+    second: Senza nome_29
+  - first:
+      213: 8541891178523883551
+    second: Senza nome_30
+  - first:
+      213: 3903539136957883672
+    second: Senza nome_31
+  - first:
+      213: 3155023729801902150
+    second: Senza nome_32
+  - first:
+      213: -520426522779266793
+    second: Senza nome_33
+  - first:
+      213: -6826578830610501681
+    second: Senza nome_34
+  - first:
+      213: 4406589476850721411
+    second: Senza nome_35
+  - first:
+      213: 3603407736041451758
+    second: Senza nome_36
+  - first:
+      213: -6817416794245698949
+    second: Senza nome_37
+  - first:
+      213: 5441198049207769779
+    second: Senza nome_38
+  - first:
+      213: 4535520465669406676
+    second: Senza nome_39
+  - first:
+      213: 236181009061492591
+    second: Senza nome_40
+  - first:
+      213: 8947640461456494458
+    second: Senza nome_41
+  - first:
+      213: -3184839847913217223
+    second: Senza nome_42
+  - first:
+      213: 4621366413194580499
+    second: Senza nome_43
+  - first:
+      213: -6909620618194376878
+    second: Senza nome_44
+  - first:
+      213: -4342485413510894172
+    second: Senza nome_45
+  - first:
+      213: 2672806157598482971
+    second: Senza nome_46
+  - first:
+      213: 4774016469536041819
+    second: Senza nome_47
+  - first:
+      213: 5676353776884370441
+    second: Senza nome_48
+  - first:
+      213: -5144984206838605855
+    second: Senza nome_49
+  - first:
+      213: -7496574903800160405
+    second: Senza nome_50
+  - first:
+      213: -4419459068921545603
+    second: Senza nome_51
+  - first:
+      213: -9139871580782225320
+    second: Senza nome_52
+  - first:
+      213: -7922014491622139234
+    second: Senza nome_53
+  - first:
+      213: 9099178707603127073
+    second: Senza nome_54
+  - first:
+      213: -1488405581006204488
+    second: Senza nome_55
+  - first:
+      213: -3702921015593621475
+    second: Senza nome_56
+  - first:
+      213: 8895051730613917538
+    second: Senza nome_57
+  - first:
+      213: 3932374903001656489
+    second: Senza nome_58
+  - first:
+      213: -4427221846841277098
+    second: Senza nome_59
+  - first:
+      213: -7702841955863239857
+    second: Senza nome_60
+  - first:
+      213: 6661699645834656656
+    second: Senza nome_61
+  - first:
+      213: 8350234432868997229
+    second: Senza nome_62
+  - first:
+      213: 3656240718808014915
+    second: Senza nome_63
+  - first:
+      213: 803796025508722365
+    second: Senza nome_64
+  - first:
+      213: -6627539648778695492
+    second: Senza nome_65
+  - first:
+      213: 7963061758283506633
+    second: Senza nome_66
+  - first:
+      213: 7811789641248129992
+    second: Senza nome_67
+  - first:
+      213: -3770202173731865932
+    second: Senza nome_68
+  - first:
+      213: -6738058723730493254
+    second: Senza nome_69
+  - first:
+      213: 5793834871602368630
+    second: Senza nome_70
+  - first:
+      213: -227055658786306103
+    second: Senza nome_71
+  - first:
+      213: -3088587392131872575
+    second: Senza nome_72
+  - first:
+      213: 5113320229483503713
+    second: Senza nome_73
+  - first:
+      213: 1380520077213526539
+    second: Senza nome_74
+  - first:
+      213: -8037995075764419335
+    second: Senza nome_75
+  - first:
+      213: 947751323276410634
+    second: Senza nome_76
+  - first:
+      213: -8237062965176103526
+    second: Senza nome_77
+  - first:
+      213: 369795477724174284
+    second: Senza nome_78
+  - first:
+      213: 8585787194859380765
+    second: Senza nome_79
+  - first:
+      213: 4747221043875702013
+    second: Senza nome_80
+  - first:
+      213: -425794930436737751
+    second: Senza nome_81
+  - first:
+      213: -5957302684024796393
+    second: Senza nome_82
+  - first:
+      213: -4678782511940649189
+    second: Senza nome_83
+  - first:
+      213: 5369731622841510377
+    second: Senza nome_84
+  - first:
+      213: -2877605700658429978
+    second: Senza nome_85
+  - first:
+      213: -3283949671858280632
+    second: Senza nome_86
+  - first:
+      213: -1948660886055338444
+    second: Senza nome_87
+  - first:
+      213: 7584020162088241704
+    second: Senza nome_88
+  - first:
+      213: 7517968798011215464
+    second: Senza nome_89
+  - first:
+      213: 7596693097078297597
+    second: Senza nome_90
+  - first:
+      213: -7243589539756275307
+    second: Senza nome_91
+  - first:
+      213: 1998138974637371350
+    second: Senza nome_92
+  - first:
+      213: -5483906966826389300
+    second: Senza nome_93
+  - first:
+      213: -7035873890829764681
+    second: Senza nome_94
+  - first:
+      213: 3942049588184677074
+    second: Senza nome_95
+  - first:
+      213: 1204637915820390605
+    second: Senza nome_96
+  - first:
+      213: 5827013951575312720
+    second: Senza nome_97
+  - first:
+      213: -1782956491466789570
+    second: Senza nome_98
+  - first:
+      213: -8072785083275588668
+    second: Senza nome_99
+  - first:
+      213: 4823293438764601901
+    second: Senza nome_100
+  - first:
+      213: 8809937667296226033
+    second: Senza nome_101
+  - first:
+      213: -106665293948696862
+    second: Senza nome_102
+  - first:
+      213: -6734417557962997961
+    second: Senza nome_103
+  - first:
+      213: -5321469022932596030
+    second: Senza nome_104
+  - first:
+      213: 5073715336964690207
+    second: Senza nome_105
+  - first:
+      213: -8065443341027789570
+    second: Senza nome_106
+  - first:
+      213: 2741302910769634890
+    second: Senza nome_107
+  - first:
+      213: -800340100349229900
+    second: Senza nome_108
+  - first:
+      213: -807205564214901721
+    second: Senza nome_109
+  - first:
+      213: -2979233495494014184
+    second: Senza nome_110
+  - first:
+      213: 6730793938686214267
+    second: Senza nome_111
+  - first:
+      213: 2375550385424750155
+    second: Senza nome_112
+  - first:
+      213: -4022207983862619804
+    second: Senza nome_113
+  - first:
+      213: 8004488405793015761
+    second: Senza nome_114
+  - first:
+      213: 8929501589547209989
+    second: Senza nome_115
+  - first:
+      213: 5355107766128371635
+    second: Senza nome_116
+  - first:
+      213: -6085340782684122107
+    second: Senza nome_117
+  - first:
+      213: -7841215543867750404
+    second: Senza nome_118
+  - first:
+      213: -1403893493668092713
+    second: Senza nome_119
+  - first:
+      213: -5487155834380565876
+    second: Senza nome_120
+  - first:
+      213: 8645651567229874341
+    second: Senza nome_121
+  - first:
+      213: -3621070234270041559
+    second: Senza nome_122
+  - first:
+      213: 7711560530419759658
+    second: Senza nome_123
+  - first:
+      213: 3869615534886115593
+    second: Senza nome_124
+  - first:
+      213: -1531667693644940466
+    second: Senza nome_125
+  - first:
+      213: 3768953599995426339
+    second: Senza nome_126
+  - first:
+      213: 5236685288262175429
+    second: Senza nome_127
+  - first:
+      213: 8198997893783525559
+    second: Senza nome_128
+  - first:
+      213: -4877821057021841719
+    second: Senza nome_129
+  - first:
+      213: -7520627733883454601
+    second: Senza nome_130
+  - first:
+      213: -6844601883607673686
+    second: Senza nome_131
+  - first:
+      213: -6785580376250095534
+    second: Senza nome_132
+  - first:
+      213: -9075801424481624639
+    second: Senza nome_133
+  - first:
+      213: 8406561836020041009
+    second: Senza nome_134
+  - first:
+      213: -4324338531503524861
+    second: Senza nome_135
+  - first:
+      213: -1168211016652541707
+    second: Senza nome_136
+  - first:
+      213: -4131359187556536423
+    second: Senza nome_137
+  - first:
+      213: -6061759988568095174
+    second: Senza nome_138
+  - first:
+      213: 5362058615287096164
+    second: Senza nome_139
+  - first:
+      213: -519681979133242504
+    second: Senza nome_140
+  - first:
+      213: 7407478099843932663
+    second: Senza nome_141
+  - first:
+      213: -1115147605711279724
+    second: Senza nome_142
+  - first:
+      213: 7081431600174082154
+    second: Senza nome_143
+  - first:
+      213: 2394650797535118073
+    second: Senza nome_144
+  - first:
+      213: 6654121732683323705
+    second: Senza nome_145
+  - first:
+      213: 2857602938800761715
+    second: Senza nome_146
+  - first:
+      213: 3852323495758505920
+    second: Senza nome_147
+  - first:
+      213: 1120536578913154155
+    second: Senza nome_148
+  - first:
+      213: 5568472356149576015
+    second: Senza nome_149
+  - first:
+      213: 6019479225777111458
+    second: Senza nome_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Senza nome_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 10256
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7bebe5ca54c2470800000000000000
+      internalID: 8371142414001158123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10256
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9b6c620c8032270800000000000000
+      internalID: 8224426965885958586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 10256
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfe9f8d724953100800000000000000
+      internalID: 87138666668486595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 10256
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1179b08feee1290f0800000000000000
+      internalID: -1111792146294532335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 10256
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1518fe121f3b2ff0800000000000000
+      internalID: -59884822977833698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 10256
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e4a27308f6ae0c0800000000000000
+      internalID: -4545698277405077948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9936
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c79704ece4a381b0800000000000000
+      internalID: -5655495369702271036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 9936
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0f6d6a13e973230800000000000000
+      internalID: 3618534761705173171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_8
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 10064
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15e4102389feb80800000000000000
+      internalID: -8363298642466024973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_9
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 9852
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b115e88a13d0de0800000000000000
+      internalID: -1365380512011445473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9552
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cfa598c71bfaa70800000000000000
+      internalID: 8840479741990075467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 9552
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d095785d45b17c0800000000000000
+      internalID: -4099589759715177158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_12
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 9592
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62bf62d68b5558d0800000000000000
+      internalID: -2858277753882430868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9168
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfb6b97101fed650800000000000000
+      internalID: 6259705520730849231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 9296
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3492c4def478f8240800000000000000
+      internalID: 4796200905526225219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_15
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 9396
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a81378985de3c590800000000000000
+      internalID: -7655013976829126488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_16
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 9336
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31acf28864425cda0800000000000000
+      internalID: -5925289849384875501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 9048
+        width: 129
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a20b5dfa55e2150800000000000000
+      internalID: 5849707179693582979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8464
+        width: 1024
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b94c86adc71c4750800000000000000
+      internalID: 6290428951559686580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 8404
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e1665e936559250800000000000000
+      internalID: 5950757289301777967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 8404
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cdf5c344cb485b0800000000000000
+      internalID: -5366957854662075348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_21
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 8404
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa1564e9f48761e0800000000000000
+      internalID: -2204647283761014108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 8400
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335fac5a2d2cc2d50800000000000000
+      internalID: 6713955354483029299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_23
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 8404
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5188cbdceee0f420800000000000000
+      internalID: 2661890080843006303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 8144
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f207ec7e70fca6270800000000000000
+      internalID: 8244629700715900975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 8340
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b78d2253bdab3a00800000000000000
+      internalID: 737373949694674865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 8340
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2628f8858059b010800000000000000
+      internalID: 1205082909757154860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 8340
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348f13f325f5fa70800000000000000
+      internalID: 8860257376672908344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_28
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 8340
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07c6a5d91c2c450800000000000000
+      internalID: 6107656926238896366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 8340
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e5b695d2a4f51c0800000000000000
+      internalID: -4512806742967755170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_30
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 8340
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1875fd15c4ea8670800000000000000
+      internalID: 8541891178523883551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 8240
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a539c9282c2630800000000000000
+      internalID: 3903539136957883672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 8244
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64835c0cd55e8cb20800000000000000
+      internalID: 3155023729801902150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_33
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 8236
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711dc0ab5d217c8f0800000000000000
+      internalID: -520426522779266793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7760
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf624ae8be1341a0800000000000000
+      internalID: -6826578830610501681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7888
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38269a638c9572d30800000000000000
+      internalID: 4406589476850721411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_36
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 8016
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee035a78e30e10230800000000000000
+      internalID: 3603407736041451758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7504
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ae33dbb8ba361a0800000000000000
+      internalID: -6817416794245698949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_38
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 7756
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bad39b0cc4038b40800000000000000
+      internalID: 5441198049207769779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7380
+        width: 234
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df3db355d761fe30800000000000000
+      internalID: 4535520465669406676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_40
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 7504
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67bdcb5065174300800000000000000
+      internalID: 236181009061492591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_41
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7248
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc603d7976c2c70800000000000000
+      internalID: 8947640461456494458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_42
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 7056
+        width: 385
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933af96480d2dc3d0800000000000000
+      internalID: -3184839847913217223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7004
+        width: 234
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312526b8444622040800000000000000
+      internalID: 4621366413194580499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 6992
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2572fcf08a81c10a0800000000000000
+      internalID: -6909620618194376878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6928
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad2e5d16846cb3c0800000000000000
+      internalID: -4342485413510894172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_46
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 6944
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1262290a07b71520800000000000000
+      internalID: 2672806157598482971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_47
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 6928
+        width: 129
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b6f8a6fa6b04240800000000000000
+      internalID: 4774016469536041819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6800
+        width: 385
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cc3aa7fa576ce40800000000000000
+      internalID: 5676353776884370441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6832
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7d3688f185998b0800000000000000
+      internalID: -5144984206838605855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_50
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 6800
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f12e2f7d0d6f790800000000000000
+      internalID: -7496574903800160405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_51
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6736
+        width: 385
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7d81646deaa2c0800000000000000
+      internalID: -4419459068921545603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6732
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85899cee837a82180800000000000000
+      internalID: -9139871580782225320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 6712
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a9d51eac95f0290800000000000000
+      internalID: -7922014491622139234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_54
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 6712
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b7b7633d6c64e70800000000000000
+      internalID: 9099178707603127073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_55
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 6732
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b19a6e820f185be0800000000000000
+      internalID: -1488405581006204488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_56
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 6732
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18a63a84f49c9cc0800000000000000
+      internalID: -3702921015593621475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_57
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 6700
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26757f5cb62917b70800000000000000
+      internalID: 8895051730613917538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_58
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 6672
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac2311c32a929630800000000000000
+      internalID: 3932374903001656489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_59
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 6672
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6554d2dcf295f82c0800000000000000
+      internalID: -4427221846841277098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_60
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 6688
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43ebc37d020a1590800000000000000
+      internalID: -7702841955863239857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_61
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 6708
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bf15e588c137c50800000000000000
+      internalID: 6661699645834656656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 6528
+        width: 218
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68546aa9fdf1e370800000000000000
+      internalID: 8350234432868997229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_63
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 6672
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340eed9ef839db230800000000000000
+      internalID: 3656240718808014915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_64
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 6688
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6715cf938a72b00800000000000000
+      internalID: 803796025508722365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_65
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 6592
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc8abbbdcf3604a0800000000000000
+      internalID: -6627539648778695492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_66
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 6592
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c36cf2aa7a728e60800000000000000
+      internalID: 7963061758283506633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_67
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6576
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3cba24a4d096c60800000000000000
+      internalID: 7811789641248129992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_68
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 6596
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba7e4f291d8dabc0800000000000000
+      internalID: -3770202173731865932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_69
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 6576
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab072506a4b9d72a0800000000000000
+      internalID: -6738058723730493254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_70
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 6416
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67051216e16d76050800000000000000
+      internalID: 5793834871602368630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_71
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 6460
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7ccc1d41659dcf0800000000000000
+      internalID: -227055658786306103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_72
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 6460
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8ca3281222325d0800000000000000
+      internalID: -3088587392131872575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_73
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 6488
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ee2d38a926f640800000000000000
+      internalID: 5113320229483503713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_74
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 6456
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6b9722b7982310800000000000000
+      internalID: 1380520077213526539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_75
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 6460
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f409b2d01e437090800000000000000
+      internalID: -8037995075764419335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_76
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 6468
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ffb4f9ec6172d00800000000000000
+      internalID: 947751323276410634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6096
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d072000e210bd80800000000000000
+      internalID: -8237062965176103526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_78
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 6100
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc79b491707c12500800000000000000
+      internalID: 369795477724174284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_79
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 6228
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10e0bad6f7d62770800000000000000
+      internalID: 8585787194859380765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5712
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df46876336481e140800000000000000
+      internalID: 4747221043875702013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_81
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5904
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f72844c5471af0800000000000000
+      internalID: -425794930436737751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_82
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 5928
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8833a5c8635da0800000000000000
+      internalID: -5957302684024796393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_83
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 5968
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb77a3810a11fb0800000000000000
+      internalID: -4678782511940649189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_84
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5824
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e966aef57e158a40800000000000000
+      internalID: 5369731622841510377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_85
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 5648
+        width: 122
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef7d988cd0b018d0800000000000000
+      internalID: -2877605700658429978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_86
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 5712
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84760ac2c211d62d0800000000000000
+      internalID: -3283949671858280632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_87
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 5648
+        width: 122
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e39f2af37f4f4e0800000000000000
+      internalID: -1948660886055338444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5328
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a8ba2d72adf3960800000000000000
+      internalID: 7584020162088241704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_89
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5348
+        width: 234
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ecde53ac0355860800000000000000
+      internalID: 7517968798011215464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_90
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 5456
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3930f6f10ec6960800000000000000
+      internalID: 7596693097078297597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5008
+        width: 257
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599871811b9997b90800000000000000
+      internalID: -7243589539756275307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4944
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfaf139fc0dabb10800000000000000
+      internalID: 1998138974637371350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_93
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5136
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0f50d2baf35e3b0800000000000000
+      internalID: -5483906966826389300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_94
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 5200
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b775a459fd8b5e90800000000000000
+      internalID: -7035873890829764681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_95
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 4924
+        width: 282
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daf8bee639f4b630800000000000000
+      internalID: 3942049588184677074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_96
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4560
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8f07f4dcbb7b010800000000000000
+      internalID: 1204637915820390605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_97
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4560
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05944ece056bdd050800000000000000
+      internalID: 5827013951575312720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_98
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4744
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d252c748aa147e0800000000000000
+      internalID: -1782956491466789570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_99
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4176
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb494bfcb4b7ff80800000000000000
+      internalID: -8072785083275588668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_100
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4240
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d225901e3d7cfe240800000000000000
+      internalID: 4823293438764601901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_101
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 4432
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa6680a1af234a70800000000000000
+      internalID: 8809937667296226033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_102
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4016
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e64354fa7c058ef0800000000000000
+      internalID: -106665293948696862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_103
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3984
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f367859ea8a82a0800000000000000
+      internalID: -6734417557962997961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_104
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4048
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca8bd43e185626b0800000000000000
+      internalID: -5321469022932596030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_105
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 4048
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f115b3f9735796640800000000000000
+      internalID: 5073715336964690207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_106
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3664
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4bffd830ac11090800000000000000
+      internalID: -8065443341027789570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_107
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3664
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1b2a29701b0620800000000000000
+      internalID: 2741302910769634890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_108
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3792
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b40f2b4bee94e4f0800000000000000
+      internalID: -800340100349229900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_109
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3284
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724804ce0da3cc4f0800000000000000
+      internalID: -807205564214901721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_110
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3284
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b4226abe2a7a6d0800000000000000
+      internalID: -2979233495494014184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_111
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3536
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b708ebb0d65986d50800000000000000
+      internalID: 6730793938686214267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_112
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3216
+        width: 130
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46d8454d76a7f020800000000000000
+      internalID: 2375550385424750155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_113
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2896
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e025362f3e28c0800000000000000
+      internalID: -4022207983862619804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_114
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2896
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d78604abc7a51f60800000000000000
+      internalID: 8004488405793015761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_115
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3024
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5055f3a9266fbeb70800000000000000
+      internalID: 8929501589547209989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_116
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2512
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76406042a215a40800000000000000
+      internalID: 5355107766128371635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_117
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2512
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5045ae6bcc68c8ba0800000000000000
+      internalID: -6085340782684122107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_118
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2768
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7cd74e1086e2390800000000000000
+      internalID: -7841215543867750404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_119
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2512
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46e6f3e4e548ce0800000000000000
+      internalID: -1403893493668092713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_120
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2384
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82c88047d4b9d3b0800000000000000
+      internalID: -5487155834380565876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_121
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2256
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a039843b468bf770800000000000000
+      internalID: 8645651567229874341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_122
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2256
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af793aecf5fbdc0800000000000000
+      internalID: -3621070234270041559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_123
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2192
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ab79fd177f40b60800000000000000
+      internalID: 7711560530419759658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_124
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1868
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909583ea3d2a3b530800000000000000
+      internalID: 3869615534886115593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_125
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1868
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bf956095c6ebae0800000000000000
+      internalID: -1531667693644940466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_126
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1996
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32638a694530e4430800000000000000
+      internalID: 3768953599995426339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_127
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1488
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca816746817ca840800000000000000
+      internalID: 5236685288262175429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_128
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1744
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8942de421b8c170800000000000000
+      internalID: 8198997893783525559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_129
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1492
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceea4aa79f7e4cb0800000000000000
+      internalID: -4877821057021841719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_130
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1488
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfce90cec51a790800000000000000
+      internalID: -7520627733883454601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_131
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1104
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa45892e9d61301a0800000000000000
+      internalID: -6844601883607673686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_132
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1108
+        width: 230
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25860ce6996c4d1a0800000000000000
+      internalID: -6785580376250095534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_133
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1232
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd9c9a0b64c0280800000000000000
+      internalID: -9075801424481624639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_134
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 976
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1358452337b1aa470800000000000000
+      internalID: 8406561836020041009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_135
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 976
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304b235540ddcf3c0800000000000000
+      internalID: -4324338531503524861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_136
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 976
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f03ab1154ea9cfe0800000000000000
+      internalID: -1168211016652541707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_137
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 868
+        width: 258
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f652235b67aa6c0800000000000000
+      internalID: -4131359187556536423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_138
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 976
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3609bf286d40eba0800000000000000
+      internalID: -6061759988568095174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 848
+        width: 258
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463a205b6ebd96a40800000000000000
+      internalID: 5362058615287096164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_140
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 784
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873579d4ef7b9c8f0800000000000000
+      internalID: -519681979133242504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_141
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 848
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1eea6d516acc660800000000000000
+      internalID: 7407478099843932663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_142
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 848
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499a37139233680f0800000000000000
+      internalID: -1115147605711279724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_143
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 784
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a682a95758c464260800000000000000
+      internalID: 7081431600174082154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_144
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 468
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2cf2486328b3120800000000000000
+      internalID: 2394650797535118073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_145
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 508
+        width: 250
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939dbc8f570385c50800000000000000
+      internalID: 6654121732683323705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_146
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 592
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37be45c8bbe38a720800000000000000
+      internalID: 2857602938800761715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_147
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 336
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7a3941fc3367530800000000000000
+      internalID: 3852323495758505920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_148
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 218
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6433f7e412fc8f00800000000000000
+      internalID: 1120536578913154155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_149
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 68
+        width: 218
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41c0e9da10374d40800000000000000
+      internalID: 5568472356149576015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Senza nome_150
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 80
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1c949967c798350800000000000000
+      internalID: 6019479225777111458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Senza nome_0: 8371142414001158123
+      Senza nome_1: 8224426965885958586
+      Senza nome_10: 8840479741990075467
+      Senza nome_100: 4823293438764601901
+      Senza nome_101: 8809937667296226033
+      Senza nome_102: -106665293948696862
+      Senza nome_103: -6734417557962997961
+      Senza nome_104: -5321469022932596030
+      Senza nome_105: 5073715336964690207
+      Senza nome_106: -8065443341027789570
+      Senza nome_107: 2741302910769634890
+      Senza nome_108: -800340100349229900
+      Senza nome_109: -807205564214901721
+      Senza nome_11: -4099589759715177158
+      Senza nome_110: -2979233495494014184
+      Senza nome_111: 6730793938686214267
+      Senza nome_112: 2375550385424750155
+      Senza nome_113: -4022207983862619804
+      Senza nome_114: 8004488405793015761
+      Senza nome_115: 8929501589547209989
+      Senza nome_116: 5355107766128371635
+      Senza nome_117: -6085340782684122107
+      Senza nome_118: -7841215543867750404
+      Senza nome_119: -1403893493668092713
+      Senza nome_12: -2858277753882430868
+      Senza nome_120: -5487155834380565876
+      Senza nome_121: 8645651567229874341
+      Senza nome_122: -3621070234270041559
+      Senza nome_123: 7711560530419759658
+      Senza nome_124: 3869615534886115593
+      Senza nome_125: -1531667693644940466
+      Senza nome_126: 3768953599995426339
+      Senza nome_127: 5236685288262175429
+      Senza nome_128: 8198997893783525559
+      Senza nome_129: -4877821057021841719
+      Senza nome_13: 6259705520730849231
+      Senza nome_130: -7520627733883454601
+      Senza nome_131: -6844601883607673686
+      Senza nome_132: -6785580376250095534
+      Senza nome_133: -9075801424481624639
+      Senza nome_134: 8406561836020041009
+      Senza nome_135: -4324338531503524861
+      Senza nome_136: -1168211016652541707
+      Senza nome_137: -4131359187556536423
+      Senza nome_138: -6061759988568095174
+      Senza nome_139: 5362058615287096164
+      Senza nome_14: 4796200905526225219
+      Senza nome_140: -519681979133242504
+      Senza nome_141: 7407478099843932663
+      Senza nome_142: -1115147605711279724
+      Senza nome_143: 7081431600174082154
+      Senza nome_144: 2394650797535118073
+      Senza nome_145: 6654121732683323705
+      Senza nome_146: 2857602938800761715
+      Senza nome_147: 3852323495758505920
+      Senza nome_148: 1120536578913154155
+      Senza nome_149: 5568472356149576015
+      Senza nome_15: -7655013976829126488
+      Senza nome_150: 6019479225777111458
+      Senza nome_16: -5925289849384875501
+      Senza nome_17: 5849707179693582979
+      Senza nome_18: 6290428951559686580
+      Senza nome_19: 5950757289301777967
+      Senza nome_2: 87138666668486595
+      Senza nome_20: -5366957854662075348
+      Senza nome_21: -2204647283761014108
+      Senza nome_22: 6713955354483029299
+      Senza nome_23: 2661890080843006303
+      Senza nome_24: 8244629700715900975
+      Senza nome_25: 737373949694674865
+      Senza nome_26: 1205082909757154860
+      Senza nome_27: 8860257376672908344
+      Senza nome_28: 6107656926238896366
+      Senza nome_29: -4512806742967755170
+      Senza nome_3: -1111792146294532335
+      Senza nome_30: 8541891178523883551
+      Senza nome_31: 3903539136957883672
+      Senza nome_32: 3155023729801902150
+      Senza nome_33: -520426522779266793
+      Senza nome_34: -6826578830610501681
+      Senza nome_35: 4406589476850721411
+      Senza nome_36: 3603407736041451758
+      Senza nome_37: -6817416794245698949
+      Senza nome_38: 5441198049207769779
+      Senza nome_39: 4535520465669406676
+      Senza nome_4: -59884822977833698
+      Senza nome_40: 236181009061492591
+      Senza nome_41: 8947640461456494458
+      Senza nome_42: -3184839847913217223
+      Senza nome_43: 4621366413194580499
+      Senza nome_44: -6909620618194376878
+      Senza nome_45: -4342485413510894172
+      Senza nome_46: 2672806157598482971
+      Senza nome_47: 4774016469536041819
+      Senza nome_48: 5676353776884370441
+      Senza nome_49: -5144984206838605855
+      Senza nome_5: -4545698277405077948
+      Senza nome_50: -7496574903800160405
+      Senza nome_51: -4419459068921545603
+      Senza nome_52: -9139871580782225320
+      Senza nome_53: -7922014491622139234
+      Senza nome_54: 9099178707603127073
+      Senza nome_55: -1488405581006204488
+      Senza nome_56: -3702921015593621475
+      Senza nome_57: 8895051730613917538
+      Senza nome_58: 3932374903001656489
+      Senza nome_59: -4427221846841277098
+      Senza nome_6: -5655495369702271036
+      Senza nome_60: -7702841955863239857
+      Senza nome_61: 6661699645834656656
+      Senza nome_62: 8350234432868997229
+      Senza nome_63: 3656240718808014915
+      Senza nome_64: 803796025508722365
+      Senza nome_65: -6627539648778695492
+      Senza nome_66: 7963061758283506633
+      Senza nome_67: 7811789641248129992
+      Senza nome_68: -3770202173731865932
+      Senza nome_69: -6738058723730493254
+      Senza nome_7: 3618534761705173171
+      Senza nome_70: 5793834871602368630
+      Senza nome_71: -227055658786306103
+      Senza nome_72: -3088587392131872575
+      Senza nome_73: 5113320229483503713
+      Senza nome_74: 1380520077213526539
+      Senza nome_75: -8037995075764419335
+      Senza nome_76: 947751323276410634
+      Senza nome_77: -8237062965176103526
+      Senza nome_78: 369795477724174284
+      Senza nome_79: 8585787194859380765
+      Senza nome_8: -8363298642466024973
+      Senza nome_80: 4747221043875702013
+      Senza nome_81: -425794930436737751
+      Senza nome_82: -5957302684024796393
+      Senza nome_83: -4678782511940649189
+      Senza nome_84: 5369731622841510377
+      Senza nome_85: -2877605700658429978
+      Senza nome_86: -3283949671858280632
+      Senza nome_87: -1948660886055338444
+      Senza nome_88: 7584020162088241704
+      Senza nome_89: 7517968798011215464
+      Senza nome_9: -1365380512011445473
+      Senza nome_90: 7596693097078297597
+      Senza nome_91: -7243589539756275307
+      Senza nome_92: 1998138974637371350
+      Senza nome_93: -5483906966826389300
+      Senza nome_94: -7035873890829764681
+      Senza nome_95: 3942049588184677074
+      Senza nome_96: 1204637915820390605
+      Senza nome_97: 5827013951575312720
+      Senza nome_98: -1782956491466789570
+      Senza nome_99: -8072785083275588668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
